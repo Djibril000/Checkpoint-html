@@ -1,0 +1,10 @@
+h1,p,h2{
+font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    font-style: normal;
+}
+p{
+    display: inline;
+
+}
